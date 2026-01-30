@@ -11,7 +11,11 @@ A record of conversations had via WhatsApp.
 How to get it
 -------------
 
-In WhatsApp, go to `Settings` -> `Chats` -> `Export Chat`.
+The path to export chats depends on your WhatsApp version:
+
+**New version:** In WhatsApp, go to `Settings` -> `Chats` -> `Chat history` -> `Export Chat`.
+
+**Old version:** In WhatsApp, go to `Settings` -> `Chats` -> `Export Chat`.
 
 
 Expected format
